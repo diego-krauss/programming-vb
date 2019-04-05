@@ -1,0 +1,12 @@
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\Diego Custodio\Estudos\Visual Basic\WindowsApp3\obj\Debug\WindowsApp3.pdb
